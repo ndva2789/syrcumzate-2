@@ -1,11 +1,11 @@
 [ {
   "id" : 4164837,
-  "init" : 30,
+  "init" : 120,
   "name" : "Interstitial_Android",
   "note" : "defull",
   "pack" : "",
-  "pe1" : 120,
-  "pe2" : 180,
+  "pe1" : 3600,
+  "pe2" : 5400,
   "status" : true,
   "testMode" : false
 } ]
